@@ -14,9 +14,10 @@ Selamat datang di repositori **Kalkulator App** yang dibangun menggunakan **Flut
 - **Open Source**: Kode sumber terbuka, sehingga Anda dapat mempelajari, memodifikasi, dan berkontribusi.
 
 ## Screenshot
-
-![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2025-03-13 102308](https://github.com/user-attachments/assets/52e2f966-8352-4605-ba59-9cf7540c273d)
+![Screenshot 2025-03-13 102346](https://github.com/user-attachments/assets/9b354606-65cd-4e22-9138-1d9771fd3ef4)
 --- | ---
+
 
 ## Cara Menggunakan
 
@@ -82,7 +83,7 @@ Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi,
 
 ## Penulis
 
-- **Nama Anda** - [GitHub](https://github.com/SyahRIZ4L) | [Email](mailto:zulfi.syahrizal@gmail.com)
+- **SyahRIZ4L** - [GitHub](https://github.com/SyahRIZ4L) | [Email](mailto:zulfi.syahrizal@gmail.com)
 
 ## Terima Kasih
 
