@@ -22,7 +22,7 @@ Selamat datang di repositori **Kalkulator App** yang dibangun menggunakan **Flut
 
 1. **Klon Repositori**:
    ```bash
-   git clone https://github.com/username/kalkulator-flutter.git
+   git clone https://github.com/SyahRIZ4L/kalkulator_app.git
    cd kalkulator-flutter
    ```
 
@@ -47,14 +47,15 @@ Selamat datang di repositori **Kalkulator App** yang dibangun menggunakan **Flut
 kalkulator-flutter/
 ├── lib/
 │   ├── main.dart
-│   ├── calculator.dart
-│   └── widgets/
-│       ├── button.dart
-│       └── display.dart
+│   └── screens/
+│       ├── kalkulator.dart
+│       ├── profil.dart
+│       └── riwayat.dart
 ├── assets/
-│   └── images/
+│   └── fotozulfi.jpg
+│   └── splash.jpg
 ├── test/
-│   └── calculator_test.dart
+│   └── widget_test.dart
 ├── pubspec.yaml
 └── README.md
 ```
@@ -79,13 +80,9 @@ Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin berkontribusi,
 4. Push ke branch (`git push origin fitur-baru`).
 5. Buat Pull Request.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ## Penulis
 
-- **Nama Anda** - [GitHub](https://github.com/username) | [Email](mailto:youremail@example.com)
+- **Nama Anda** - [GitHub](https://github.com/SyahRIZ4L) | [Email](mailto:zulfi.syahrizal@gmail.com)
 
 ## Terima Kasih
 
