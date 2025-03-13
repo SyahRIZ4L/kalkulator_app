@@ -15,6 +15,8 @@ Selamat datang di repositori **Kalkulator App** yang dibangun menggunakan **Flut
 
 ## Screenshot
 ![Screenshot 2025-03-13 102308](https://github.com/user-attachments/assets/52e2f966-8352-4605-ba59-9cf7540c273d) ![Screenshot 2025-03-13 102346](https://github.com/user-attachments/assets/9b354606-65cd-4e22-9138-1d9771fd3ef4)
+![Screenshot 2025-03-13 103523](https://github.com/user-attachments/assets/894b5d8d-8f7c-4247-a3b9-00b772d07820)
+
 --- | ---
 
 
